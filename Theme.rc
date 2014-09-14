@@ -1,0 +1,9 @@
+[KSplash Theme: Potenza-Ksplash]
+Name = Potenza Ksplash
+Description = Animated KDE logo on custom background
+Version = 1.0.9
+Author = Alessandro Bompadre <xiorone at gmail.com>
+Homepage = https://www.facebook.com/alessandro.bompadre
+
+# Theme behaviour settings.
+Engine = KSplashQML
